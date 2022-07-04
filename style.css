@@ -54,3 +54,8 @@ body{
 }
 #baby-web-developer{
    border-left: 7px solid blue;
+}
+footer{
+    text-align: center;
+   font-style: italic;
+}
